@@ -5,6 +5,7 @@ Practical exercises focused on JavaScript functions and their use in QA automati
 ## Exercises
 
 - 01 - Function as value, callbacks and `forEach`
+- 02 - `map()` and data transformation
 
 ## Skills practiced
 
@@ -14,3 +15,6 @@ Practical exercises focused on JavaScript functions and their use in QA automati
 - Functions as values
 - Callback functions
 - `forEach`
+- `map()`
+- Array data transformation
+- Working with objects inside arrays
